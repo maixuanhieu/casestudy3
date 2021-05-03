@@ -35,6 +35,10 @@
         <label>Số phòng còn trống</label>
         <input type="number" class="form-control" name="empty_room">
     </div>
+    <div class="form-group">
+        <label>Giá phòng(một đêm)</label>
+        <input type="number" class="form-control" name="room_rates">
+    </div>
     <button type="submit" class="btn btn-outline-primary">Thêm mới</button>
 
 

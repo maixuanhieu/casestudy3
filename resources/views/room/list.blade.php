@@ -42,6 +42,7 @@
             <th scope="col">Loại phòng</th>
             <th scope="col">Số lượng phòng</th>
             <th scope="col">Số phòng trống</th>
+            <th scope="col">Giá phòng(một đêm)</th>
         </tr>
     </thead>
     <tbody>
@@ -51,6 +52,7 @@
             <td>{{$room->group}}</td>
             <td>{{$room->quantity}}</td>
             <td>{{$room->empty_room}}</td>
+            <td>{{$room->room_rates}}</td>
             <td>
                 <a href="{{route('rooms.edit', $room->id)}}"><button type="button" class="btn btn-outline-secondary btn-sm">Sửa</button></a>
                 <a href="{{route('rooms.destroy', $room->id)}}" onclick="return confirm('Bạn có muốn xoá {{$room->group}}')"><button type="button" class="btn btn-outline-dark btn-sm">Xoá</button></a>

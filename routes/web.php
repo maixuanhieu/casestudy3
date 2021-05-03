@@ -65,7 +65,3 @@ Route::post('/sign-out', [AuthController::class, 'signOut']);
 Route::get('/register', [AuthController::class, 'showRegisterPage']);
 
 Route::post('/register', [AuthController::class, 'register']);
-
-Route::get('/ad', function () {
-    return view('profile');
-});

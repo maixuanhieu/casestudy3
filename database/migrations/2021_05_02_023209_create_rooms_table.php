@@ -19,6 +19,7 @@ class CreateRoomsTable extends Migration
             $table->string('group');
             $table->integer('quantity');
             $table->integer('empty_room');
+            $table->integer('room_rates');
             $table->timestamps();
         });
     }

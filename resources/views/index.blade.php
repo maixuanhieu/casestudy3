@@ -84,6 +84,11 @@
                       <li><a href="/2">Thông tin</a></li>
                       <li><a href="/3">Liên hệ</a></li>
                     </ul>
+                    <ul>
+                    <a href="/sign-in"><b>Đăng nhập |</b></a>
+                    <a href="/register"><b>Đăng ký</b></a>
+                    </ul>
+
                   </div>
                 </nav>
               </div>

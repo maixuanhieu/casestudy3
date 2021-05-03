@@ -1,25 +1,38 @@
 @extends('layout.auth')
 
 @section('form')
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<link rel="stylesheet" href="/storage/css/style2.css">
 <form method="POST">
     @csrf
-    <div class="form-group">
-        <label for="inputAddress">Name</label>
-        <input name="full_name" type="text" class="form-control" id="inputAddress" placeholder="1234 Main St">
-    </div>
-
-    <div class="form-row">
-        <div class="form-group col-md-6">
-            <label for="inputEmail4">Email</label>
-            <input name="email" type="email" class="form-control" id="inputEmail4" placeholder="Email">
+    <label>
+        <p class="label-txt">ENTER YOUR NAME</p>
+        <input type="text" class="input">
+        <div class="line-box">
+            <div class="line"></div>
         </div>
-
-        <div class="form-group col-md-6">
-            <label for="inputPassword4">Password</label>
-            <input name="password" type="password" class="form-control" id="inputPassword4" placeholder="Password">
+    </label>
+    <label>
+        <p class="label-txt">ENTER YOUR EMAIL</p>
+        <input type="text" class="input">
+        <div class="line-box">
+            <div class="line"></div>
         </div>
-    </div>
-
-    <button type="submit" class="btn btn-primary">Sign in</button>
+    </label>
+    <label>
+        <p class="label-txt">ENTER YOUR PASSWORD</p>
+        <input type="text" class="input">
+        <div class="line-box">
+            <div class="line"></div>
+        </div>
+    </label>
+    <button type="submit">Sign in</button>
 </form>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 @endsection('form')
+
+
+
+
+    
