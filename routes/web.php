@@ -3,6 +3,7 @@
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\RoomController;
 use App\Http\Controllers\EmployeeController;
+use App\Http\Controllers\BookingController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -58,6 +59,15 @@ Route::group(['prefix' => 'rooms'], function () {
     Route::post('/{id}/edit', [RoomController::class, 'update'])->name('rooms.update');
     Route::get('/{id}/destroy', [RoomController::class, 'destroy'])->name('rooms.destroy');
     Route::post('/search', [RoomController::class, 'search'])->name('rooms.search');
+});
+
+Route::group(['prefix' => 'bookings'], function () {
+    Route::get('/', [BookingController::class, 'index'])->name('bookings.index');
+    Route::get('/create', [BookingController::class, 'create'])->name('bookings.create');
+    Route::post('/create', [BookingController::class, 'store'])->name('bookings.store');
+    Route::get('/{id}/edit', [BookingController::class, 'edit'])->name('bookings.edit');
+    Route::post('/{id}/edit', [BookingController::class, 'update'])->name('bookings.update');
+    Route::get('/{id}/destroy', [BookingController::class, 'destroy'])->name('bookings.destroy');
 });
 
 Route::get('/sign-in',[AuthController::class, 'showSignInPage'])->name('sign-in');

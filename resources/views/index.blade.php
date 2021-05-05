@@ -376,7 +376,7 @@
                 </a>
               </div>
               <h2 class="heading mb-0"><a href="#">Lorem Ipsum Dolor Sit Amet</a></h2>
-              <span class="mb-3 d-block post-date">Dec 20th, 2018 &bullet; By <a href="#">Admin</a></span>
+              <span class="mb-3 d-block post-date">Dec 20th, 2020 &bullet; By <a href="#">Admin</a></span>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis tempora natus rerum obcaecati.</p>
             </div>
           
@@ -387,7 +387,7 @@
                 </a>
               </div>
               <h2 class="heading mb-0"><a href="#">Lorem Ipsum Dolor Sit Amet</a></h2>
-              <span class="mb-3 d-block post-date">Dec 20th, 2018 &bullet; By <a href="#">Admin</a></span>
+              <span class="mb-3 d-block post-date">Dec 20th, 2020 &bullet; By <a href="#">Admin</a></span>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis tempora natus rerum obcaecati.</p>
             </div>
           
@@ -398,7 +398,7 @@
                 </a>
               </div>
               <h2 class="heading mb-0"><a href="#">Lorem Ipsum Dolor Sit Amet</a></h2>
-              <span class="mb-3 d-block post-date">Dec 20th, 2018 &bullet; By <a href="#">Admin</a></span>
+              <span class="mb-3 d-block post-date">Dec 20th, 2020 &bullet; By <a href="#">Admin</a></span>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis tempora natus rerum obcaecati.</p>
             </div>
 
@@ -409,7 +409,7 @@
                 </a>
               </div>
               <h2 class="heading mb-0"><a href="#">Lorem Ipsum Dolor Sit Amet</a></h2>
-              <span class="mb-3 d-block post-date">Dec 20th, 2018 &bullet; By <a href="#">Admin</a></span>
+              <span class="mb-3 d-block post-date">Dec 20th, 2020 &bullet; By <a href="#">Admin</a></span>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis tempora natus rerum obcaecati.</p>
             </div>
           
@@ -420,7 +420,7 @@
                 </a>
               </div>
               <h2 class="heading mb-0"><a href="#">Lorem Ipsum Dolor Sit Amet</a></h2>
-              <span class="mb-3 d-block post-date">Dec 20th, 2018 &bullet; By <a href="#">Admin</a></span>
+              <span class="mb-3 d-block post-date">Dec 20th, 2020 &bullet; By <a href="#">Admin</a></span>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis tempora natus rerum obcaecati.</p>
             </div>
           
@@ -431,7 +431,7 @@
                 </a>
               </div>
               <h2 class="heading mb-0"><a href="#">Lorem Ipsum Dolor Sit Amet</a></h2>
-              <span class="mb-3 d-block post-date">Dec 20th, 2018 &bullet; By <a href="#">Admin</a></span>
+              <span class="mb-3 d-block post-date">Dec 20th, 2020 &bullet; By <a href="#">Admin</a></span>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis tempora natus rerum obcaecati.</p>
             </div>
             
@@ -442,7 +442,7 @@
                 </a>
               </div>
               <h2 class="heading mb-0"><a href="#">Lorem Ipsum Dolor Sit Amet</a></h2>
-              <span class="mb-3 d-block post-date">Dec 20th, 2018 &bullet; By <a href="#">Admin</a></span>
+              <span class="mb-3 d-block post-date">Dec 20th, 2020 &bullet; By <a href="#">Admin</a></span>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis tempora natus rerum obcaecati.</p>
             </div>
           
@@ -453,7 +453,7 @@
                 </a>
               </div>
               <h2 class="heading mb-0"><a href="#">Lorem Ipsum Dolor Sit Amet</a></h2>
-              <span class="mb-3 d-block post-date">Dec 20th, 2018 &bullet; By <a href="#">Admin</a></span>
+              <span class="mb-3 d-block post-date">Dec 20th, 2020 &bullet; By <a href="#">Admin</a></span>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis tempora natus rerum obcaecati.</p>
             </div>
           
@@ -464,7 +464,7 @@
                 </a>
               </div>
               <h2 class="heading mb-0"><a href="#">Lorem Ipsum Dolor Sit Amet</a></h2>
-              <span class="mb-3 d-block post-date">Dec 20th, 2018 &bullet; By <a href="#">Admin</a></span>
+              <span class="mb-3 d-block post-date">Dec 20th, 2020 &bullet; By <a href="#">Admin</a></span>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio dolores culpa qui aliquam placeat nobis veritatis tempora natus rerum obcaecati.</p>
             </div>
           

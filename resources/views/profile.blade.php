@@ -82,7 +82,7 @@
                             <ul class="dropdown-menu dropdown-menu-end user-dd animated" aria-labelledby="navbarDropdown">
                                 <a class="dropdown-item" href="/4"><i class="ti-user me-1 ms-1"></i>
                                     My Profile</a>
-                                <a class="dropdown-item" href="javascript:void(0)"><i class="ti-wallet me-1 ms-1"></i>
+                                <a class="dropdown-item" href="/sign-out"><i class="ti-wallet me-1 ms-1"></i>
                                     Sign Out</a>
                                 <a class="dropdown-item" href="javascript:void(0)"><i class="ti-email me-1 ms-1"></i>
                                     Inbox</a>
@@ -154,7 +154,7 @@
                                 <center class="mt-4"> <img src="/storage/assets/images/users/5.jpg"
                                         class="rounded-circle" width="150" />
                                     <h4 class="card-title mt-2">Mai Xuan Hieu</h4>
-                                    <h6 class="card-subtitle">Accoubts Manager Amix corp</h6>
+                                    <h6 class="card-subtitle">Accounts Manager Amix corp</h6>
                                     <div class="row text-center justify-content-md-center">
                                         <div class="col-4"><a href="javascript:void(0)" class="link"><i
                                                     class="mdi mdi-account-network"></i>
