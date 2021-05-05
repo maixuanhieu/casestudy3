@@ -59,15 +59,15 @@
                       <li class="active">
                         <a href="/">Trang chủ</a>
                       </li>
-                      <li class="has-children">
-                        <a href="rooms.html">Phòng</a>
-                        <ul class="dropdown arrow-top">
+                      <li>
+                        <a href="/5">Đặt phòng</a>
+                        <!-- <ul class="dropdown arrow-top"> -->
                           <!-- <li><a href="rooms.html">Hiện có</a></li> -->
-                          <li><a href="rooms.html">Phòng 1 giường nhỏ</a></li>
-                          <li><a href="rooms.html">Phòng 2 giường nhỏ</a></li>
-                          <li><a href="rooms.html">Phòng 1 giường lớn</a></li>
-                          <li><a href="rooms.html">Phòng 1 giường lớn và 1 giường nhỏ</a></li>
-                          <li><a href="rooms.html">Phòng 3 giường nhỏ</a></li>
+                          <!-- <li><a href="/5">Phòng 1 giường nhỏ</a></li>
+                          <li><a href="/5">Phòng 2 giường nhỏ</a></li>
+                          <li><a href="/5">Phòng 1 giường lớn</a></li>
+                          <li><a href="/5">Phòng 1 giường lớn và 1 giường nhỏ</a></li>
+                          <li><a href="/5">Phòng 3 giường nhỏ</a></li> -->
                           <!-- <li class="has-children">
                             <a href="rooms.html">Dịch vụ</a>
                             <ul class="dropdown">
@@ -78,17 +78,14 @@
                             </ul>
                           </li> -->
 
-                        </ul>
+                        <!-- </ul> -->
                       </li>
                       <li><a href="/1">Sự kiện</a></li>
                       <li><a href="/2">Thông tin</a></li>
                       <li><a href="/3">Liên hệ</a></li>
+                      <li><a href="/sign-in"><b>Đăng nhập |</b></a>
+                      <a href="/register"><b>Đăng ký</b></a></li>
                     </ul>
-                    <ul>
-                    <a href="/sign-in"><b>Đăng nhập |</b></a>
-                    <a href="/register"><b>Đăng ký</b></a>
-                    </ul>
-
                   </div>
                 </nav>
               </div>
@@ -146,47 +143,47 @@
         </div>
         <div class="row">
           <div class="col-md-6 col-lg-4 mb-5">
-            <div class="hotel-room text-center">
-              <a href="#" class="d-block mb-0 thumbnail"><img src="storage/images/1-giuong-nho.jpg" alt="Image" class="img-fluid"></a>
+            <div class="hotel-room text-center" style="height: 63.5%;width: 100%;">
+              <a href="#" class="d-block mb-0 thumbnail" style="height: 100%; width: 100%"><img src="storage/images/1-giuong-nho.jpg" style="height: 100%; width: 100%" alt="Image" class="img-fluid"></a>
               <div class="hotel-room-body">
-                <h3 class="heading mb-0"><a href="#">Phòng 1 giường nhỏ</a></h3>
+                <h3 class="heading mb-0"><a href="/5">Phòng 1 giường nhỏ</a></h3>
                 <strong class="price">250.000đ / một đêm</strong>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 mb-5">
-            <div class="hotel-room text-center">
-              <a href="#" class="d-block mb-0 thumbnail"><img src="storage/images/2-giuong-nho.jpg" alt="Image" class="img-fluid"></a>
+            <div class="hotel-room text-center" style="height: 63.5%;width: 100%;">
+              <a href="#" class="d-block mb-0 thumbnail" style="height: 100%; width: 100%"><img src="storage/images/2-giuong-nho.jpg" style="height: 100%; width: 100%" alt="Image" class="img-fluid"></a>
               <div class="hotel-room-body">
-                <h3 class="heading mb-0"><a href="#">Phòng 2 giường nhỏ</a></h3>
+                <h3 class="heading mb-0"><a href="/5">Phòng 2 giường nhỏ</a></h3>
                 <strong class="price">500.000đ / một đêm</strong>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 mb-5">
-            <div class="hotel-room text-center">
-              <a href="#" class="d-block mb-0 thumbnail"><img src="storage/images/hero_3.jpg" alt="Image" class="img-fluid"></a>
+            <div class="hotel-room text-center" style="height: 63.5%;width: 100%;">
+              <a href="#" class="d-block mb-0 thumbnail" style="height: 100%; width: 100%" ><img src="storage/images/hero_3.jpg" style="height: 100%; width: 100%" alt="Image" class="img-fluid"></a>
               <div class="hotel-room-body">
-                <h3 class="heading mb-0"><a href="#">Phòng 1 giường lớn</a></h3>
+                <h3 class="heading mb-0"><a href="/5">Phòng 1 giường lớn</a></h3>
                 <strong class="price">400.000đ / một đêm</strong>
               </div>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-4 mb-5">
-            <div class="hotel-room text-center">
-              <a href="#" class="d-block mb-0 thumbnail"><img src="storage/images/1-lon-1-nho.jpg" alt="Image" class="img-fluid"></a>
+            <div class="hotel-room text-center" style="height: 63.5%;width: 100%;">
+              <a href="#" class="d-block mb-0 thumbnail" style="height: 100%; width: 100%"><img src="storage/images/1-lon-1-nho.jpg" style="height: 100%; width: 100%" alt="Image" class="img-fluid"></a>
               <div class="hotel-room-body">
-                <h3 class="heading mb-0"><a href="#">Phòng 1 giường lớn và 1 giường nhỏ</a></h3>
+                <h3 class="heading mb-0"><a href="/5">Phòng 1 giường lớn và 1 giường nhỏ</a></h3>
                 <strong class="price">600.000đ / một đêm</strong>
               </div>
             </div>
           </div>
           <div class="col-md-6 col-lg-4 mb-5">
-            <div class="hotel-room text-center">
-              <a href="#" class="d-block mb-0 thumbnail"><img src="storage/images/3-giuong-nho.jpg" alt="Image" class="img-fluid"></a>
+            <div class="hotel-room text-center" style="height: 63.5%;width: 100%;">
+              <a href="#" class="d-block mb-0 thumbnail" style="height: 100%; width: 100%"><img src="storage/images/3-giuong-nho.jpg" style="height: 100%; width: 100%" alt="Image" class="img-fluid"></a>
               <div class="hotel-room-body">
-                <h3 class="heading mb-0"><a href="#">Phòng 3 giường nhỏ</a></h3>
+                <h3 class="heading mb-0"><a href="/5">Phòng 3 giường nhỏ</a></h3>
                 <strong class="price">700.000đ / một đêm</strong>
               </div>
             </div>
@@ -228,7 +225,7 @@
             <div class="section-heading text-left">
               <h2 class="mb-5">Thông tin</h2>
             </div>
-            <p class="mb-4">Khách sạn Hoàng Hôn luôn mang vẻ đẹp hiện đại xen lẫn nét cổ kính. Đặt khách sạn sớm nhất để hưởng trọn ưu đãi, hứa hẹn một kì nghỉ với những ...</p>
+            <p class="mb-4">Khách sạn Sunrise luôn mang vẻ đẹp hiện đại xen lẫn nét cổ kính. Đặt khách sạn sớm nhất để hưởng trọn ưu đãi, hứa hẹn một kì nghỉ với những ...</p>
             <p><a href="https://vimeo.com/28959265" class="popup-vimeo text-uppercase">Xem Video <span class="icon-arrow-right small"></span></a></p>
           </div>
         </div>

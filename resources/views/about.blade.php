@@ -59,20 +59,22 @@
                       <li>
                         <a href="/">Trang chủ</a>
                       </li>
-                      <li class="has-children">
-                        <a href="rooms.html">Phòng</a>
-                        <ul class="dropdown arrow-top">
-                        <li><a href="rooms.html">Phòng 1 giường nhỏ</a></li>
-                          <li><a href="rooms.html">Phòng 2 giường nhỏ</a></li>
-                          <li><a href="rooms.html">Phòng 1 giường lớn</a></li>
-                          <li><a href="rooms.html">Phòng 1 giường lớn và 1 giường nhỏ</a></li>
-                          <li><a href="rooms.html">Phòng 3 giường nhỏ</a></li>
+                      <li>
+                        <a href="/5">Đặt phòng</a>
+                        <!-- <ul class="dropdown arrow-top">
+                        <li><a href="/5">Phòng 1 giường nhỏ</a></li>
+                          <li><a href="/5">Phòng 2 giường nhỏ</a></li>
+                          <li><a href="/5">Phòng 1 giường lớn</a></li>
+                          <li><a href="/5">Phòng 1 giường lớn và 1 giường nhỏ</a></li>
+                          <li><a href="/5">Phòng 3 giường nhỏ</a></li>
 
-                        </ul>
+                        </ul> -->
                       </li>
                       <li><a href="/1">Sự kiện</a></li>
                       <li class="active"><a href="/2">Thông tin</a></li>
                       <li><a href="/3">Liên hệ</a></li>
+                      <li><a href="/sign-in"><b>Đăng nhập |</b></a>
+                      <a href="/register"><b>Đăng ký</b></a></li>
                     </ul>
                   </div>
                 </nav>

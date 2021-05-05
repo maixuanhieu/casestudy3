@@ -36,6 +36,10 @@ Route::get('/4', function () {
     return view('profile');
 });
 
+Route::get('/5', function () {
+    return view('booking');
+});
+
 Route::group(['prefix' => 'employees'], function () {
     Route::get('/', [EmployeeController::class, 'index'])->name('employees.index');
     Route::get('/create', [EmployeeController::class, 'create'])->name('employees.create');

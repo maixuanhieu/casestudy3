@@ -83,7 +83,7 @@
                                 <a class="dropdown-item" href="/4"><i class="ti-user me-1 ms-1"></i>
                                     My Profile</a>
                                 <a class="dropdown-item" href="javascript:void(0)"><i class="ti-wallet me-1 ms-1"></i>
-                                    My Balance</a>
+                                    Sign Out</a>
                                 <a class="dropdown-item" href="javascript:void(0)"><i class="ti-email me-1 ms-1"></i>
                                     Inbox</a>
                             </ul>
@@ -136,7 +136,7 @@
                             <nav aria-label="breadcrumb">
                                 <ol class="breadcrumb">
                                     <li class="breadcrumb-item">
-                                        <a href="#">Home</a>
+                                        <a href="/">Home</a>
                                     </li>
                                     <li class="breadcrumb-item active" aria-current="page">Profile</li>
                                 </ol>
